@@ -1,0 +1,6 @@
+data/io.github.dida_code.textcorrect.desktop.in
+data/io.github.dida_code.textcorrect.metainfo.xml.in
+data/io.github.dida_code.textcorrect.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
