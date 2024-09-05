@@ -32,7 +32,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/dimitrije/Projects"
+                    "url": "https://github.com/dida-code/textcorrect",
+                    "tag": "main"
                 }
             ]
         }
