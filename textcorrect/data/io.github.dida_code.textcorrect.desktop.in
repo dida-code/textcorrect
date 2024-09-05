@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=TextCorrect
-Exec=textcorrect
-Icon=io.github.dida_code.textcorrect
-Terminal=false
-Type=Application
-Categories=GTK;
-StartupNotify=true
